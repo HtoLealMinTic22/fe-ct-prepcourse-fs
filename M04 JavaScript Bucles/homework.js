@@ -199,9 +199,9 @@ function esPrimo(num) {
        
       if (num % i == 0 ) 
         {
-         return false;
+         return false ;
         }
-      else return true;
+      else return true ;
     }
 }
 
